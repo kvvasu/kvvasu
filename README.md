@@ -4,7 +4,7 @@
 
 
 <div id="header" align="center">
-* 🧐   interested in Front end developer.
+* 🧐 i am interested in Front end developer.
 * 💼 i like contributing to open source libraries in my free time.
 * 🌱   Currently learning Linux, react.js , python ,mongodb & Philosophy.
 </div>
@@ -21,8 +21,8 @@
 </p>
 
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=kvvasu.kvvasut" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kvvasu.kvvasu" alt="visitor badge"/>       
 </p>
 
 </p>
