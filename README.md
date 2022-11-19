@@ -9,16 +9,14 @@
 
 
 
-* 🧐 i am interested in Front end developer.
-* 💼 i like contributing to open source libraries in my free time.
-* 🌱   Currently learning Linux, react.js , python ,mongodb & Philosophy.
+* 🧐 i am a Front end developer (aspiring full-stack)
+      with a passion for clean and responsive web applications. 
+* 💼 i like contributing to open source libraries in my free time
+*     and i am Currently learning react.js, nodejs, mongodb.
   
   
   
-  
-  
-  ![](https://media.giphy.com/media/CODteyJZwSNEZI0pYO/giphy.gif)
-</div>
+  </div>
 
 
 <hr>
