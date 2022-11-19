@@ -1,6 +1,6 @@
 ### Hi there 👋 i am vasu
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://media4.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e47xtr8dscgth65z6o66a7zpb69xuf2aj2wh44wlvqw&rid=giphy.gif&ct=g)
 
 
 <div id="header" align="center">
