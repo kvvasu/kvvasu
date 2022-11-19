@@ -1,13 +1,25 @@
-### Hi there 👋 i am vasu
-
-![](https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif)
-
+###
+  
 
 <div id="header" align="center">
+   Hi there 👋 i am vasu
+  
+  ![](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif) 
+  
+
+
+
 * 🧐 i am interested in Front end developer.
 * 💼 i like contributing to open source libraries in my free time.
 * 🌱   Currently learning Linux, react.js , python ,mongodb & Philosophy.
+  
+  
+  
+  
+  
+  ![](https://media.giphy.com/media/CODteyJZwSNEZI0pYO/giphy.gif)
 </div>
+
 
 <hr>
 <p align="center">
