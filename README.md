@@ -2,17 +2,19 @@
   
 
 <div id="header" align="center">
-   Hi there 👋 i am vasu
   
-  ![](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif) 
-  
+  ![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif ) 
+  <p>
+  Hey there, I'm vasu👋🏽
+    <P>
+  While I'm learning Reactjs, Javascript, Jquery, HTML & CSS.⚒️👨🏽‍💻
+    </P>
+  I'm also working on building web Application projects 😎
+  </P>
+   and I'm looking forward to contributing to other open source projects.🐞📝
+    
+  </p>
 
-
-
-* 🧐 i am a Front end developer (aspiring full-stack)
-      with a passion for clean and responsive web applications. 
-* 💼 i like contributing to open source libraries in my free time
-*     and i am Currently learning react.js, nodejs, mongodb.
   
   
   
@@ -30,24 +32,9 @@
 <a href= "https://projectk"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=kvvasu.kvvasut" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kvvasu.kvvasu" alt="visitor badge"/>       
-</p>
 
 </p>
 
 <!--
-**kvvasu/kvvasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
