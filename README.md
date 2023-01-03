@@ -8,12 +8,12 @@
  <h1>  Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
   I'm vasu,
   frontend developer. <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-    <P><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-   - While I'm learning Reactjs, Javascript, Jquery, HTML & CSS.
+    <P><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+   - While I'm learning Reactjs, Javascript, HTML & CSS.
    
-   - I'm also working on building web Application projects 😎⚒️👨🏽‍💻
+   - I'm also working on building web Application projects <img src= "https://media.giphy.com/media/l0HlKlnMbluD0nKEM/giphy.gif" height="30px">
  
-   - I'm looking forward to contributing to other open source projects.🐞📝
+   - I'm looking forward to contributing to other open source projects.<img src="https://media.giphy.com/media/JDjCXwxT1utJE1Q3M3/giphy.gif" height="40px" >
     
   </p>
 
