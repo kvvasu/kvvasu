@@ -1,27 +1,12 @@
 ###
-  
+  # <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> kv vasu yadav
 
-<div id="header" align="center">
-  
-  
-  <p>
- <h1>  Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
-  I'm vasu,
-  frontend developer. <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-    <P><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
-   - While I'm learning Reactjs, Javascript, HTML & CSS.
-   
-   - I'm also working on building web Application projects <img src= "https://media.giphy.com/media/l0HlKlnMbluD0nKEM/giphy.gif" height="30px">
- 
-   - I'm looking forward to contributing to other open source projects.<img src="https://media.giphy.com/media/JDjCXwxT1utJE1Q3M3/giphy.gif" height="40px" >
+**`Painting websites(Web Developer)`**
+
+I'm a self-taught full-stack developer and All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. And I contribute to the other open source projects on my free time.
+
+   <p align="left">
     
-  </p>
-
-  
-  
-  
-  </div>
-
 
 <hr>
 <p align="center">
@@ -32,10 +17,7 @@
 <a href= "https://www.linkedin.com/in/kv-vasu-yadav"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/graymatterre><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://projectk"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
 
-
-</p>
 Here are some 🦜 party parrots
 
 <div>
