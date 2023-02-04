@@ -23,7 +23,7 @@
   
 
 # Contact me
-[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/kvvasu)  [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](linkedin.com/in/kvvasuyadav) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/graymatterre) 
+[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/kvvasu)  [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://linkedin.com/in/kvvasuyadav) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/graymatterre) 
 
 
 
