@@ -1,24 +1,35 @@
 ###
-  # <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> kv vasu yadav
+  # <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">  Hi there,
+  # kv vasu 
 
-**`Painting websites(Web Developer)`**
 
-I'm a self-taught full-stack developer and All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. And I contribute to the other open source projects on my free time.
 
-   <p align="left">
-    
+* I am a front-end Developer
+* Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks like Recat.js .
+* Passionate about Responsive web designing, Accessibility, Performance optimization and Progressive web application.
+* I learn and build everything that excites me from cooking food to building large scale application
 
-<hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
 
-<p align="center">
-<a href= "https://github.com/kvvasu"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/kv-vasu-yadav"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/graymatterre><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://projectk"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 
-Here are some 🦜 party parrots
+🔭 **I’m currently working on**   react.js 
+
+<!--
+🌱 **I’m currently learning** Python 
+-->
+
+📫 **Shoot me a Message at**: waasukv@gmail.com 
+
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"> <img src="https://media.giphy.com/media/p7vNNJJla6PuX6t4T2/giphy.gif" width="50"><br><br>
+  
+
+# Contact me
+[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/kvvasu)  [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kvvasuyadav") [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/graymatterre) 
+
+
+
+  
+
+Here are some 🦜 party parrots and check out my Repos ⬇️
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
