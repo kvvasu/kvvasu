@@ -5,7 +5,7 @@
 
 
 * I am a front-end Developer
-* Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks like Recat.js .
+* Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks like React.js .
 * Passionate about Responsive web designing, Accessibility, Performance optimization and Progressive web application.
 * I learn and build everything that excites me from cooking food to building large scale application
 
