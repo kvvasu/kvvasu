@@ -1,62 +1,73 @@
-###
-  # <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">  Hi there,
-  #     kv vasu 
+<h1 align="center">Vasu Yadav</h1>
+<h3 align="center">ServiceNow Developer — Accenture</h3>
 
+<p align="center">
+  <i>I design, build, and maintain ServiceNow platform solutions — delivering scalable applications, automating workflows, and enforcing platform governance.</i>
+</p>
 
+<p align="center">
+  <a href="https://kvvasu.github.io/vasu-yadav-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:kvvasuyadav@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/kvvasu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-* I am a front-end Developer
-* Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks like React.js .
-* Passionate about Responsive web designing, Accessibility, Performance optimization and Progressive web application.
-* I learn and build everything that excites me from cooking food to building large scale application
+---
 
+## 🎯 How I Work
 
+*Solving problems, not just tickets.*
 
-🔭 **I’m currently working on**   react.js 
+| Tenet | Focus |
+|---|---|
+| **Solutioning** | Design that maps to real business outcomes |
+| **Automation** | Remove human steps from repeatable work |
+| **Security** | Least privilege, roles, ACLs from day one |
+| **Delivery** | Sprint-focused, transparent, on-time |
 
-<!--
-🌱 **I’m currently learning** Python 
--->
+---
 
-📫 **Shoot me a Message at**: waasukv@gmail.com 
+## 💼 Experience
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"> <img src="https://media.giphy.com/media/p7vNNJJla6PuX6t4T2/giphy.gif" width="50"><br><br>
-  
+**ServiceNow Developer** — Accenture · *2024 – Present*
 
-# Contact me
-[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/kvvasu)  [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://linkedin.com/in/kvvasuyadav) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/graymatterre) 
+- Led **ITSM & CSDM** implementations across 3 client modules
+- Built integration flows (**REST, IntegrationHub**) cutting ticket resolution time by **~35%**
+- Automated catalog, approvals & notifications using **Flow Designer**
+- Maintained UAT, change records, and platform governance
 
+---
 
+## 🛠️ Skills
 
-  
+`ITSM` `CMDB` `CSDM` `Flow Designer` `IntegrationHub` `REST` `Scripting` `Service Portal` `Virtual Agent` `Workflow` `ITAM` `Approvals` `Reporting`
 
-Here are some 🦜 party parrots and check out my Repos ⬇️
+---
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-<!--
+## 🏆 Certifications
 
--->
+![CSA](https://img.shields.io/badge/CSA-Certified%20System%20Administrator-2E8B57?style=flat-square&logo=servicenow&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-Certified%20Application%20Developer-2E8B57?style=flat-square&logo=servicenow&logoColor=white)
+![CIS](https://img.shields.io/badge/CIS-Certified%20Implementation%20Specialist-2E8B57?style=flat-square&logo=servicenow&logoColor=white)
+
+---
+
+## 🚀 Selected Work
+
+**ITSM Transformation**
+`ITSM` `CMDB` `CSDM` `Flow Designer`
+
+**Employee Center**
+`Employee Center` `Service Catalog` `Virtual Agent` `Knowledge Management`
+
+**ITAM & Integrations**
+`ITAM` `Business Rules` `REST APIs`
+
+---
+
+## 📫 Contact
+
+Available for ServiceNow work · Hyderabad, India
+
+📧 kvvasuyadav@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://kvvasu.github.io/vasu-yadav-portfolio/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/kvvasu)
+
+<p align="center"><sub>© 2026 Vasu Yadav</sub></p>
